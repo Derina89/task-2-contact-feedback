@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1790344811362,
+    "type": "contact",
+    "name": "A.Mary Derina",
+    "email": "mary@gmail.com",
+    "message": "Nova Tech application",
+    "createdAt": "2026-09-25T14:00:11.362Z"
+  },
+  {
+    "id": 1790345358787,
+    "type": "contact",
+    "name": "A.Xavier Watson",
+    "email": "watson@gmail.com",
+    "message": "Nova tech application",
+    "createdAt": "2026-09-25T14:09:18.787Z"
+  }
+]
